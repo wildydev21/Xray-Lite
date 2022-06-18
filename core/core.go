@@ -2,14 +2,7 @@ package core
 
 import (
 	"runtime"
-	"github.com/xtls/xray-core"
-)
-
-var (
-	version  = "1.0"
-	build    = "Custom"
-	codename = "Xray-Lite, Penetrates Everything."
-	intro    = "A unified platform for anti-censorship."
+	"github.com/xtls/xray-core/common/serial"
 )
 
 func Version() string {
