@@ -1,4 +1,4 @@
-module github.com/xtls/xray-core
+module github.com/wildydev21/Xray-Lite
 
 go 1.18
 
