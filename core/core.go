@@ -2,7 +2,7 @@ package core
 
 import (
 	"runtime"
-	"github.com/wildydev21/Xray-Lite/common/serial"
+	"github.com/xtls/xray-core"
 )
 
 var (
