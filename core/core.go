@@ -14,13 +14,13 @@ package core
 import (
 	"runtime"
 
-	"github.com/xtls/xray-core/common/serial"
+	"github.com/wildydev21/Xray-Lite/common/serial"
 )
 
 var (
-	version  = "1.5.7"
+	version  = "1.0"
 	build    = "Custom"
-	codename = "Xray, Penetrates Everything."
+	codename = "Xray-Lite, Penetrates Everything."
 	intro    = "A unified platform for anti-censorship."
 )
 
