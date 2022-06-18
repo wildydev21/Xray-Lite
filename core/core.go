@@ -5,6 +5,13 @@ import (
 	"github.com/xtls/xray-core/common/serial"
 )
 
+var (
+        version  = "1.0"
+        build    = "Custom"
+        codename = "Xray-Lite, Penetrates Everything."
+        intro    = "A unified platform for anti-censorship."
+)
+
 func Version() string {
 	return version
 }
